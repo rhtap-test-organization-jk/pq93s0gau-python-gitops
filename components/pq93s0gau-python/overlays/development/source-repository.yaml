@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pq93s0gau-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pq93s0gau-python
